@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "NOCE",
+  "name": "Noce - Non-Fungible Optimistic Cards Experience",
   "icons": [
     {
       "src": "favicon.ico",
